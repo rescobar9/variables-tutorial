@@ -54,6 +54,6 @@ basic.forever(function () {
     basic.showNumber(Temperature)
 })
 ```
-## Step 10
+## Step 8
 Congratulations, you did it!
 
